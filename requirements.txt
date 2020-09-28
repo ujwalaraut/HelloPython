@@ -7,6 +7,7 @@ bleach==3.2.1
 colorama==0.4.3
 configparser==4.0.2
 contextlib2==0.6.0.post1
+cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
@@ -29,8 +30,10 @@ jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
 jupyterlab==0.33.12
 jupyterlab-launcher==0.11.2
+kiwisolver==1.1.0
 lxml==4.5.2
 MarkupSafe==1.1.1
+matplotlib==2.2.5
 mistune==0.8.4
 nbconvert==5.6.1
 nbformat==4.4.0
